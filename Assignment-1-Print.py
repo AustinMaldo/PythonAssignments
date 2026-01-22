@@ -11,5 +11,5 @@ prnit('This line fails too!')
 print "I think I know how to fix this one"
 
 # print the name entered by the user
-input('Please tell me your name: ')
-print(name)
+input('Please tell me your name: Austin')
+print(Austin)
